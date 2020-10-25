@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bobbye Bethel
 
 - 🔭 I’m currently working on #100Daysof Code
-- 🌱 I’m currently learning HTML, CSS, JS and Markdown
+- 🌱 I’m currently relearning HTML, CSS, JS and Markdown
 
 <!--
 **chelly242/chelly242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
